@@ -4,4 +4,4 @@
 CHARLIE = "Brown"
 VIOLET = "Gray"
 PATRICIA = "Reichardt"
-LINUS = "Van Pelt"
+LINUS = "van Pelt"
